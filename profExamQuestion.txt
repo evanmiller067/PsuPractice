@@ -1,0 +1,17 @@
+
+Linear linked lists, circular and doubly linked lists:
+1. Write a recursive function in C++ to find duplicate data within an existing linked list.
+2. Write a recursive function in C++ to remove all nodes in that linked list
+3. Write a recursive function in C++ to remove all nodes except the last two nodes
+4. Write a recursive function in C++ to add a node to the end but only if it doesn't already exist in the linked list
+5. Write a recursive function in C++ to move the last node to the beginning of the linked list
+6. Write a recursive function in C++ to make a complete copy of a linked list
+7. Write a recursive function in C++ to copy a circular linked list into a linear linked list
+
+Binary search trees:
+1. Write a recursive function in C++ to make a copy of a binary search tree
+2. Write a recursive function in C++ to make a copy of a binary search tree and place it in a linear linked list, sorted
+3. Write a recursive function in C++ to add a node into a binary search tree
+4. Write a recursive function in C++ to remove the largest item in a binary search tree
+5. Write a recursive function in C++ to remove the largest two items in a binary search tree
+6. Write a recursive function in C++ to find the root’s in-order successor 
